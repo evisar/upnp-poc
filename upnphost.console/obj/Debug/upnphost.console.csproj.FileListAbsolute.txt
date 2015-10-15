@@ -1,0 +1,13 @@
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\upnphost.console.exe.config
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\upnphost.console.exe
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\upnphost.console.pdb
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\common.dll
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\common.impl.dll
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\UPnP.dll
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\upnphost.dll
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\common.impl.pdb
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\common.pdb
+C:\upnp-poc\upnp-poc\upnphost.console\bin\Debug\upnphost.pdb
+C:\upnp-poc\upnp-poc\upnphost.console\obj\Debug\upnphost.console.csprojResolveAssemblyReference.cache
+C:\upnp-poc\upnp-poc\upnphost.console\obj\Debug\upnphost.console.exe
+C:\upnp-poc\upnp-poc\upnphost.console\obj\Debug\upnphost.console.pdb

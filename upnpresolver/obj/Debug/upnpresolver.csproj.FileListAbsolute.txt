@@ -1,0 +1,8 @@
+C:\upnp-poc\upnp-poc\upnpresolver\bin\Debug\upnpresolver.dll
+C:\upnp-poc\upnp-poc\upnpresolver\bin\Debug\upnpresolver.pdb
+C:\upnp-poc\upnp-poc\upnpresolver\bin\Debug\ImpromptuInterface.dll
+C:\upnp-poc\upnp-poc\upnpresolver\bin\Debug\UPnP.dll
+C:\upnp-poc\upnp-poc\upnpresolver\bin\Debug\ImpromptuInterface.xml
+C:\upnp-poc\upnp-poc\upnpresolver\obj\Debug\upnpresolver.csprojResolveAssemblyReference.cache
+C:\upnp-poc\upnp-poc\upnpresolver\obj\Debug\upnpresolver.dll
+C:\upnp-poc\upnp-poc\upnpresolver\obj\Debug\upnpresolver.pdb

@@ -1,0 +1,8 @@
+C:\upnp-poc\upnp-poc\upnphost\bin\Debug\upnphost.dll
+C:\upnp-poc\upnp-poc\upnphost\bin\Debug\upnphost.pdb
+C:\upnp-poc\upnp-poc\upnphost\bin\Debug\ImpromptuInterface.dll
+C:\upnp-poc\upnp-poc\upnphost\bin\Debug\UPnP.dll
+C:\upnp-poc\upnp-poc\upnphost\bin\Debug\ImpromptuInterface.xml
+C:\upnp-poc\upnp-poc\upnphost\obj\Debug\upnphost.csprojResolveAssemblyReference.cache
+C:\upnp-poc\upnp-poc\upnphost\obj\Debug\upnphost.dll
+C:\upnp-poc\upnp-poc\upnphost\obj\Debug\upnphost.pdb

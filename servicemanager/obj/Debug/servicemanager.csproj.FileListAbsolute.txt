@@ -1,0 +1,7 @@
+C:\upnp-poc\upnp-poc\servicemanager\bin\Debug\servicemanager.exe.config
+C:\upnp-poc\upnp-poc\servicemanager\obj\Debug\servicemanager.csprojResolveAssemblyReference.cache
+C:\upnp-poc\upnp-poc\servicemanager\bin\Debug\servicemanager.exe
+C:\upnp-poc\upnp-poc\servicemanager\bin\Debug\servicemanager.pdb
+C:\upnp-poc\upnp-poc\servicemanager\bin\Debug\UPnP.dll
+C:\upnp-poc\upnp-poc\servicemanager\obj\Debug\servicemanager.exe
+C:\upnp-poc\upnp-poc\servicemanager\obj\Debug\servicemanager.pdb

@@ -1,0 +1,7 @@
+C:\upnp-poc\upnp-poc\simplelight\bin\Debug\simplelight.exe.config
+C:\upnp-poc\upnp-poc\simplelight\bin\Debug\simplelight.exe
+C:\upnp-poc\upnp-poc\simplelight\bin\Debug\simplelight.pdb
+C:\upnp-poc\upnp-poc\simplelight\bin\Debug\UPnP.dll
+C:\upnp-poc\upnp-poc\simplelight\obj\Debug\simplelight.csprojResolveAssemblyReference.cache
+C:\upnp-poc\upnp-poc\simplelight\obj\Debug\simplelight.exe
+C:\upnp-poc\upnp-poc\simplelight\obj\Debug\simplelight.pdb

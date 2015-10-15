@@ -1,0 +1,5 @@
+C:\upnp-poc\upnp-poc\common\bin\Debug\common.dll
+C:\upnp-poc\upnp-poc\common\bin\Debug\common.pdb
+C:\upnp-poc\upnp-poc\common\obj\Debug\common.dll
+C:\upnp-poc\upnp-poc\common\obj\Debug\common.pdb
+C:\upnp-poc\upnp-poc\common\obj\Debug\common.csprojResolveAssemblyReference.cache
